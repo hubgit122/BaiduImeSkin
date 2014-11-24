@@ -1,0 +1,4 @@
+﻿Name=Sinpute
+Style=小红帽
+Author=SsqStone
+SupportPlatform=SWIA
